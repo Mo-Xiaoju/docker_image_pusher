@@ -7,3 +7,4 @@ xhofe/alist:latest
 node:20-alpine
 nginx:alpine
 python:3.9-slim
+mysql:8.0
